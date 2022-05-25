@@ -1,0 +1,33 @@
+# IDE & OS specific
+.DS_Store
+.idea
+.gradle
+
+# Logs
+logs
+*.log
+
+# Dependencies
+node_modules
+
+# Coverage
+coverage
+.nyc_output
+
+# Release
+lib
+
+# Generated docs
+doc
+
+# VIM swap files
+*.sw*
+
+# `solana-test-validator` ledger location
+test-ledger/
+
+# Flow
+module.flow.js
+
+# TypeScript
+declarations
