@@ -2,12 +2,12 @@ const endpoint = {
   http: {
     devnet: 'http://api.devnet.mundis.io',
     testnet: 'http://api.testnet.mundis.io',
-    'mainnet': 'http://api.mainnet.mundis.io/',
+    mainnet: 'http://api.mainnet.mundis.io/',
   },
   https: {
     devnet: 'https://api.devnet.mundis.io',
     testnet: 'https://api.testnet.mundis.io',
-    'mainnet': 'https://api.mainnet-beta.mundis.io/',
+    mainnet: 'https://api.mainnet.mundis.io/',
   },
 };
 
