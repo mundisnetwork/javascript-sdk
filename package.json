@@ -1,10 +1,11 @@
 {
-  "name": "@mundis/sdk.js",
-  "version": "1.0-development",
-  "description": "Mundis Javascript API",
+  "name": "@mundis/sdk",
+  "version": "1.0.0",
+  "description": "Mundis Javascript SDK",
   "keywords": [
     "api",
-    "blockchain"
+    "blockchain",
+    "mundis"
   ],
   "license": "MIT",
   "author": "Mundis Maintainers <maintainers@mundis.io>",
