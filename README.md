@@ -7,7 +7,7 @@ This is the Mundis Javascript API built on the Mundis JSON RPC API
 ### Yarn
 
 ```
-$ yarn add @solana/web3.js
+$ yarn add @mundis/sdk.js
 ```
 
 ### Npm
